@@ -3,7 +3,6 @@ from tkinter import ttk, filedialog, messagebox
 import os
 import threading
 import sys
-import queue
 import main as rion
 
 
