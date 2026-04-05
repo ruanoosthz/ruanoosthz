@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Ruan Oosthuizen
+- 👋 Hi, I’m Ruan
 - 👀 I’m interested in business, fitness and of course... coding
-- 📚 I’m currently studying towards my matriculant certificate
-- 💪 I’m looking to improve my coding skills
+- 📚 I’m currently studying towards my Bachelor's degree in Computer Science
 - 📫 How to reach me: ruanoosthz@gmail.com
-- ⚡ Fun fact: I'm not the typical computer nerd 😉
 
 <!---
 ruanoosthz/ruanoosthz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
